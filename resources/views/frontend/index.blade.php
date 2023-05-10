@@ -223,9 +223,13 @@
                                     </div>
                                 </div>
                                 <h2>{{$product->name}}</h2>
-                                <h2>{{$product->price}}</h2>
-                                {{-- <h2>{{$product->description}}</h2>
-                                <h2>{{$product->status}}</h2>  --}}
+                                Price: {{$product->price}} BDT
+                                <br>
+                                Details: {{$product->description}}
+                                
+                                <!-- <h2>{{$product->price}}</h2> -->
+                                <!-- {{-- <h2>{{$product->description}}</h2>
+                                <h2>{{$product->status}}</h2>  --}} -->
                             </div>
                             @endif
                             @endforeach

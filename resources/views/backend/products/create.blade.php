@@ -29,6 +29,7 @@
             <x-backend.form.input  name="category_name" />
 
             <x-backend.form.input  name="brand_name" />
+
             <x-backend.form.input  name="description" />
 
           

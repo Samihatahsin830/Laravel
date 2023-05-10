@@ -27,6 +27,7 @@
                         <th>price</th>
                         <th>category_name</th>
                         <th>brand_name</th>
+                        <th>Discount</th>
                         <th>description</th>
                         
                         
